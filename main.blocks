@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="d4iB.?7IzQzoNKBlRDO|" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="F{8s_zPz#H:3EQK7T0lz"><value name="text"><shadow type="text" id="}bSh,S|`AlXevSEr8-1S"><field name="TEXT">Hello!</field></shadow></value><next><block type="controls_repeat_ext" id="z.auu@{]et{W+eBv`v=O"><value name="TIMES"><shadow type="math_whole_number" id="NKj@pblbpe6Ew94I(n~7"><field name="NUM">4</field></shadow></value></block></next></block></statement></block><block type="device_show_leds" id="MiQP.^Kh^0I=(Wk{/zT3" disabled="true" x="405" y="137"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="mfH17h}KI(3*RC5wy[0F" disabled="true"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_while" id="#I@RYVw.h~^{6tgeoJn;" disabled="true"><value name="COND"><shadow type="logic_boolean" id="K@J2f2SfA`Q:Ws=i[/,v" disabled="true"><field name="BOOL">FALSE</field></shadow></value></block></next></block></next></block></xml>
